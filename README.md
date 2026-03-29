@@ -53,6 +53,7 @@ Me especializo en desarrollar **aplicaciones web con Django**, integrando mis co
 
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
@@ -98,9 +99,7 @@ Portfolio profesional con panel de administración, gestión dinámica de proyec
 
 <div align="center">
 
-![Ramiro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramirousnayo&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirousnayo&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ramirousnayo&theme=tokyonight&hide_border=true&locale=es)
 
 </div>
 
