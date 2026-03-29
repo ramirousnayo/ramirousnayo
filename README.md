@@ -86,7 +86,7 @@ Sistema de subastas con gestión de objetos por categoría, sistema de pujas y c
 
 ---
 
-### 💼 [Portfolio Web — ramirocv](https://github.com/ramirousnayo/ramirocv)
+### 💼 [Portfolio Web](https://github.com/ramirousnayo/ramirocv)
 > CV dinámico construido con Django
 
 Portfolio profesional con panel de administración, gestión dinámica de proyectos, experiencia y habilidades. Implementa buenas prácticas de seguridad con variables de entorno (`python-dotenv`).
